@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "username": "Muhammadjon",
+    "password": "muhammad2959",
+    "created": "2023-06-01T14:49:59.871Z"
+  },
+  {
+    "id": 2,
+    "username": "Farruxbek",
+    "password": "farrux4265",
+    "created": "2023-06-01T15:24:43.471Z"
+  },
+  {
+    "id": 3,
+    "username": "Otabek",
+    "password": "otabek8823",
+    "created": "2023-06-01T15:25:19.553Z"
+  },
+  {
+    "id": 4,
+    "username": "Only",
+    "password": "football",
+    "created": "2023-06-01T15:25:36.792Z"
+  },
+  {
+    "id": 5,
+    "username": "myBest",
+    "password": "notGood",
+    "created": "2023-06-01T15:26:06.337Z"
+  },
+  {
+    "id": 6,
+    "username": "my",
+    "password": "name",
+    "created": "2023-06-01T15:49:58.740Z"
+  },
+  {
+    "id": 7,
+    "username": "hakim",
+    "password": 1321234132,
+    "created": "2023-06-01T16:05:05.683Z"
+  },
+  {
+    "id": 8,
+    "username": "Shohruz",
+    "password": "Isaqulov",
+    "created": "2023-06-02T09:22:38.070Z"
+  },
+  {
+    "id": 9,
+    "username": "Muhammadjon1122",
+    "password": "MuhammadjonOnly",
+    "created": "2023-06-03T13:09:38.993Z"
+  },
+  {
+    "id": 10,
+    "username": "Muhammadjon12",
+    "password": "Muhammaly5544",
+    "created": "2023-06-03T13:27:58.569Z"
+  }
+]
